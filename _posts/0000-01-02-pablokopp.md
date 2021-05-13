@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Hola soy Pablo y estoy probando
+PRUEBA2
 Use the left arrow to go back!
